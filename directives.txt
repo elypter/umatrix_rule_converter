@@ -1,0 +1,5 @@
+https-strict
+matrix-off
+referrer-spoof
+ua-spoof
+
